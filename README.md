@@ -1,3 +1,5 @@
+<img width="1280" height="682" alt="image" src="https://github.com/user-attachments/assets/73c1e4c7-c0fe-4ec0-bb59-32e75941d21e" />
+
 # 🚀 Antigravity Chat Sync (IDE → Antigravity 2.0)
 
 A high-performance desktop application and CLI tool that seamlessly bridges conversations, transcripts, brain artifacts, and project workspaces from **Antigravity IDE** (VS Code based) into **Antigravity 2.0** (Electron desktop application).
